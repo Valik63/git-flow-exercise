@@ -20,7 +20,4 @@ Welcome to Flavor, the only place on the planet where your taste buds won't be d
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
- [Chocolate Soup](recipe/jan/chocolate-soup.md)
-
-
- ###
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
