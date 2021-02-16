@@ -1,6 +1,6 @@
-# Flavor Magazine
+# _Flavor_ Magazine
 
-Welcome to Flavor, the only place on the planet where your taste buds won't be disappointed!
+Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
 
 
@@ -12,4 +12,4 @@ Welcome to Flavor, the only place on the planet where your taste buds won't be d
 
 ### [John Lemon](writer/john-lemon.md)
 
-### [Madame Croque](writer/madame-croque.md)
+### [Madame Croque](writer/madame-croque.md) 
